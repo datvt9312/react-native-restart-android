@@ -1,0 +1,22 @@
+{
+  "name": "react-native-restart-android",
+  "version": "0.0.6",
+  "description": "Restart the whole react native android application",
+  "author": "Le Quang Huy",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "immersive",
+    "menu-bar",
+    "fullscreen"
+  ],
+  "peerDependencies": {
+    "react-native": "*"
+  }
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/mini/Desktop/RN/Testing/vn.player-test/node_modules/react-native-restart-android/android/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/mini/Desktop/RN/Testing/vn.player-test/node_modules/react-native-restart-android/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.1/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/mini/Desktop/RN/Production/vn.player/node_modules/react-native-restart-android/android/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/mini/Desktop/RN/Production/vn.player/node_modules/react-native-restart-android/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.1/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/thanhdatvo/Desktop/work/_avacus-mobile/node_modules/react-native-restart-android/android/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/thanhdatvo/Desktop/work/_avacus-mobile/node_modules/react-native-restart-android/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/mini/Desktop/RN/Production/newcom.phimhub/node_modules/react-native-restart-android/android/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/mini/Desktop/RN/Production/newcom.phimhub/node_modules/react-native-restart-android/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.1/res/xml/preferences.xml"
+    }
+]
